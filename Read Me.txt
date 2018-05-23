@@ -1,0 +1,6 @@
+Open main.py
+
+In line 18, Change path of the file "soccer".
+Line 361, to change camera position if required.
+
+Run main.py
