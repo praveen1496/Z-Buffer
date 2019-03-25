@@ -2,9 +2,9 @@
 
 ## Implementing the z-buffer algorithm where each polygon should be constant colored differently. 
 
-INPUT: 
+### INPUT: 
 a) Geometric data for a polygonal objects from specified files
 b) Viewing parameters
 
-OUTPUT:
+### OUTPUT:
 Colored views of several objects with hidden surfaces removed. 
